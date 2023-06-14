@@ -34,8 +34,8 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'ahmedhashim1@gmail.com'
-TO = 'ahmedhashim_2000@hotmail.com'
+FROM = ''
+TO = ''
 PASS = ''
 
 #Create msg body
